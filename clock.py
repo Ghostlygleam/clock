@@ -3,7 +3,7 @@ import datetime
 
 pygame.init()
 
-width, height = 800, 600
+width, height = 1000, 900
 screen = pygame.display.set_mode((width, height), pygame.RESIZABLE)
 pygame.display.set_caption("Mickey Mouse Clock")
 
